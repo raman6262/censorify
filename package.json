@@ -1,0 +1,11 @@
+{
+"author": "raman62",
+"name":"censorify",
+"version":"0.1.1",
+"description":"censors words out of word ",
+"main":"censortext",
+"dependecies":{},
+"engines":{
+"node":"*"
+}
+}
