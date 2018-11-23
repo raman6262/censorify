@@ -1,0 +1,20 @@
+{
+"author": "raman62",
+"name":"censorify",
+"version":"0.1.1",
+"description":"censors words out of word ",
+"main":"censortext",
+"repository":{
+    "type":"git",
+    "url":"https://github.com/raman6262/censorify/tree/master/censorify.git"
+},
+"keywords":
+[
+"censor",
+"words"
+],
+"dependencies":{},
+"engines":{
+"node":"*"
+}
+}
